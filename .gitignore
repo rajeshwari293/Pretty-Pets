@@ -1,0 +1,13 @@
+# Ignore sensitive config files
+config.php
+.env
+
+# Ignore XAMPP logs or temp files
+*.log
+*.bak
+
+# Ignore vendor folders (if using Composer)
+/vendor/
+
+# Ignore IDE config files
+.idea/
